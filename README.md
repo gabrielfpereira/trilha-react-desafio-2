@@ -6,7 +6,7 @@ Neste Desafio de Projeto você irá criar uma Wiki para salvar alguns repositór
 
 ### O que foi implementado?
 - Função que permite excluir um repositório recebendo o ID do repositório como parâmetro.
-- Tratamento de Erros quando a aplicação não encotra o repositório pesquisado pelo usuário.
+- Tratamento de Erros quando a aplicação não encontra o repositório pesquisado pelo usuário.
 - Melhorias na interface e responsividade.
 ## Rodando localmente
 
