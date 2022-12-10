@@ -14,10 +14,16 @@ export const ItemContainer = styled.div`
         margin-bottom:20px;
     }
 
-    a.remover {
-        color: #FF0000;
-        margin-top:20px;
+    div.actions{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        
+        a.remover {
+            color: #FF0000;
+        }
     }
+
 
     hr {
         color: #FAFAFA60;
